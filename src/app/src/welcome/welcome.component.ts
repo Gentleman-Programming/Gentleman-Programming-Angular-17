@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
-import { MainContainerComponent } from '../layout/';
-import { FadeInDirective } from '../directives/animations';
+import { MainContainerComponent, FadeInDirective } from '../components';
 
 @Component({
   selector: 'app-welcome',
